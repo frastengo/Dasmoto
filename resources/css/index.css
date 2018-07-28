@@ -3,7 +3,7 @@ h1 {
   color: khaki;
   text-align: center;
   margin: auto;
-  background-image: url("images/pattern.jpeg");
+  background-image: url("../images/pattern.jpeg");
 }
 h1,
 h2,
